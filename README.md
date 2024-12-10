@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eranga Wickramasinghe</h1>
-<h3 align="center">Aspiring Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **E-Scooter App**
 
