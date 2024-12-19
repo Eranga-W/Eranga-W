@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-Scooter App**
 
-- 🌱 I’m currently learning **Java, JavaScript, React.js, Angular, Spring, Express, Node.js**
+- 🌱 I’m currently learning **Java, JavaScript, React.js, Angular, Spring, Express, Node.js, MongoDB, MySQL**
 
 - 📫 How to reach me **wadewickramasinghe@gmail.com**
 
